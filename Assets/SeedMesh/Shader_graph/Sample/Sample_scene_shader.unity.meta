@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58ef85c7be55c5241bfe77c499a054d6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232690
+  packageName: SeedMesh vegetation Shaders
+  packageVersion: 2.0.0
+  assetPath: Assets/SeedMesh/Shader_graph/Sample/Sample_scene_shader.unity
+  uploadId: 704555

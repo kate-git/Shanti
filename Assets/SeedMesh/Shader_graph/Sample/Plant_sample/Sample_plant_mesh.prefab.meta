@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 154b563d0f65b6d40bc795ff19bcbfb1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232690
+  packageName: SeedMesh vegetation Shaders
+  packageVersion: 2.0.0
+  assetPath: Assets/SeedMesh/Shader_graph/Sample/Plant_sample/Sample_plant_mesh.prefab
+  uploadId: 704555
