@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aecb3806-06f6-4f27-9442-cc6ef0da8c6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shanti/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shanti/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shanti/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shanti/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shanti/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/query/client-agp/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/cache-v2-27acab5af105e2b1d306.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-5c366a012f7a2c9a238d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-7c0f2fad5a597ee1a092.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/directory-.-RelWithDebInfo-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/directory-FramePacing-RelWithDebInfo-7f9c8865fd027a154c90.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/directory-GameActivity-RelWithDebInfo-3edf2ef9e25ca0503118.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/index-2025-02-11T18-28-37-0402.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/target-game-RelWithDebInfo-3262b2368326f55e5c00.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.cmake/api/v1/reply/target-swappywrapper-RelWithDebInfo-8d731b381dd23ade90ef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/FramePacing/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/GameActivity/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/additional_project_files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/android_gradle_build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/build_file_index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/compile_commands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/compile_commands.json.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/configure_fingerprint.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/metadata_generation_command.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/prefab_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/arm64-v8a/symbol_folder_index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/hash_key.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/game-activity/game-activityConfig.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/games-frame-pacing/games-frame-pacingConfig.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4g13175i/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/games-frame-pacing/games-frame-pacingConfigVersion.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/query/client-agp/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/cache-v2-03e2842f451182f3f8b3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-231e66c6e91c9652b026.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-1ffa6700df0f03278b3c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/directory-.-RelWithDebInfo-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/directory-FramePacing-RelWithDebInfo-7f9c8865fd027a154c90.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/directory-GameActivity-RelWithDebInfo-3edf2ef9e25ca0503118.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/index-2025-02-11T17-29-18-0033.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/target-game-RelWithDebInfo-7216dda04f484057e820.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.cmake/api/v1/reply/target-swappywrapper-RelWithDebInfo-e484120c1526babd781f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/FramePacing/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/GameActivity/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/additional_project_files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/android_gradle_build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/build_file_index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/compile_commands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/compile_commands.json.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/configure_fingerprint.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/metadata_generation_command.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/prefab_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/arm64-v8a/symbol_folder_index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/hash_key.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/game-activity/game-activityConfig.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/games-frame-pacing/games-frame-pacingConfig.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/RelWithDebInfo/4m6b4e5q/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/games-frame-pacing/games-frame-pacingConfigVersion.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.utmp/tools/release/arm64-v8a/compile_commands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3Dobject/bowlGlass.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3Dobject/bowlGlass.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3Dobject/bowlGold.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3Dobject/bowlGold.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3Dobject/bowlOld.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/3Dobject/bowlOld.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/PerformanceTestRunInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/PerformanceTestRunInfo.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/PerformanceTestRunSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/PerformanceTestRunSettings.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/RuntimeActionBindings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RuntimeActionBindings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3Dobject/Materials/jacaranda_tree_branches_diff_1k.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3Dobject/Materials/jacaranda_tree_branches_diff_1k.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3Dobject/Materials/jacaranda_tree_trunk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3Dobject/Materials/jacaranda_tree_trunk.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3Dobject/Materials/woodChest.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3Dobject/Materials/woodChest.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Forst/Conifers [BOTD]/Conifers_BIRP.unitypackage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/RuntimeActionBindings.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Forst/Conifers [BOTD]/Conifers_HDRP.unitypackage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Forst/Conifers [BOTD]/Conifers_URP.unitypackage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Build Profiles.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Universal Render Pipeline Asset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Universal Render Pipeline Asset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/OculusProjectConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/OculusProjectConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/OculusRuntimeSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OculusRuntimeSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Forest.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kate-git&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kate-git/Shanti.git&quot;,
+    &quot;accountId&quot;: &quot;7605ba52-a4c8-4d74-a8a7-cbaecce0d02c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2stjBMEazYBhbHVFaYAcMfIxYz3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Kate&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aecb3806-06f6-4f27-9442-cc6ef0da8c6b" name="Changes" comment="" />
+      <created>1739281630138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739281630138</updated>
+      <workItem from="1739281631458" duration="10000" />
+      <workItem from="1739355679266" duration="6000" />
+      <workItem from="1739356172187" duration="2000" />
+      <workItem from="1739356481237" duration="15000" />
+      <workItem from="1739356802209" duration="2000" />
+      <workItem from="1739387478736" duration="2000" />
+      <workItem from="1739389406969" duration="4000" />
+      <workItem from="1739391213622" duration="2000" />
+      <workItem from="1739391277592" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
