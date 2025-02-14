@@ -3,7 +3,12 @@ guid: 04eb34b1fb7044d6597d05889b2ca89e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quiver_tree_02
+    second: {fileID: 2100000, guid: 32aac725651a641f7b2fabd58b37a68f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
