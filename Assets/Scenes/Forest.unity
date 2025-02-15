@@ -12514,7 +12514,7 @@ GameObject:
   - component: {fileID: 1055654818}
   - component: {fileID: 1055654817}
   m_Layer: 0
-  m_Name: Quad
+  m_Name: yoga mat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
