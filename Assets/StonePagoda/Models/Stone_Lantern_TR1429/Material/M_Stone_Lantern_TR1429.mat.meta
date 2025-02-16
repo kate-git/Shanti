@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62bb98ae481e5a948a851cecd4bae76c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261899
+  packageName: NHA - Korean Traditional Stone Pagoda
+  packageVersion: 1.0
+  assetPath: Assets/StonePagoda/Models/Stone_Lantern_TR1429/Material/M_Stone_Lantern_TR1429.mat
+  uploadId: 612393

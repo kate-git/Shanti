@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccb26b72cbfbb7241b9a18e1f9b04cae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261899
+  packageName: NHA - Korean Traditional Stone Pagoda
+  packageVersion: 1.0
+  assetPath: Assets/StonePagoda/Models/Stonepagoda_TR1429_West/Material/M_StonePaogda_TR1429_West.mat
+  uploadId: 612393
