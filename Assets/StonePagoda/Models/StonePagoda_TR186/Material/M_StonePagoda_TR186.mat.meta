@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd2fa9cdfdeaa6d47946db3e779c7a8a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261899
+  packageName: NHA - Korean Traditional Stone Pagoda
+  packageVersion: 1.0
+  assetPath: Assets/StonePagoda/Models/StonePagoda_TR186/Material/M_StonePagoda_TR186.mat
+  uploadId: 612393
