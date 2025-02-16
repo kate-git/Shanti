@@ -37892,48 +37892,52 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 48.199955
+      value: 48.20404
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.14594603
+      value: -0.14477086
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 20.122812
+      value: 20.237432
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.20338334
+      value: 0.13789397
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.18377824
+      value: -0.119199
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.6441459
+      value: 0.6748011
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.71409863
+      value: 0.7151366
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -95.889
+      value: -93.603
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 179.746
+      value: 194.388
       objectReference: {fileID: 0}
     - target: {fileID: 4826540174550549601, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -31.565979
+      value: -35.346985
       objectReference: {fileID: 0}
     - target: {fileID: 5309884818090925787, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
       propertyPath: m_Name
       value: Rockingchair
       objectReference: {fileID: 0}
+    - target: {fileID: 5958399109674254094, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5f046b1b6adb95b43bb56511325e5507, type: 2}
     m_RemovedComponents:
     - {fileID: 3818374083121276376, guid: d53ce7cc4f04bcd4692d5383aa21cc89, type: 3}
     m_RemovedGameObjects: []
