@@ -54,7 +54,6 @@ Material:
     m_Colors:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _NormalUVS: {r: 1, g: 3, b: 0, a: 0}
-    - _WaxColor: {r: 0.6784314, g: 0.44313726, b: 0.2509804, a: 0}
+    - _WaxColor: {r: 0.6886792, g: 0.57033485, b: 0.46453363, a: 0}
     - _WaxSSSColor: {r: 0.2735849, g: 0.22346823, b: 0.19486472, a: 0}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1
