@@ -10,7 +10,7 @@ public class TouchMusicPlayer : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         if (audioSource == null)
         {
-            Debug.LogError("Нет AudioSource на объекте!");
+            Debug.LogError("No AudioSource on object!");
         }
     }
 
@@ -32,7 +32,7 @@ public class TouchMusicPlayer : MonoBehaviour
         {
             if (audioSource.isPlaying)
             {
-                audioSource.Pause(); // Музыка ставится на паузу, но не сбрасывается
+                audioSource.Pause(); // music paused but remember the last moment of playing
             }
             isPlaying = false;
         }
