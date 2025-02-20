@@ -9630,6 +9630,83 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1575667706}
   m_SourcePrefab: {fileID: 100100000, guid: 25bf2c237fa01c441a08231d87209df8, type: 3}
+--- !u!1001 &648767444
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.0976293
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.0976293
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.0976293
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 58.17
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000009536743
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.79
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: m_Name
+      value: 3d Coconut & Tree stump
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659832278342445663, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: bf4927f6f36f719489ad2d9efc94ac95, type: 2}
+    - target: {fileID: 5926443047010723351, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ecc0e24f42edc49a8810a07382090d4f, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f1b16de0ef6347f0a4fddc4974b1ffb, type: 3}
 --- !u!1 &664171977
 GameObject:
   m_ObjectHideFlags: 0
@@ -44451,3 +44528,4 @@ SceneRoots:
   - {fileID: 1379482837}
   - {fileID: 664171980}
   - {fileID: 919996764}
+  - {fileID: 648767444}
